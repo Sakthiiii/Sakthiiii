@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack course**
 
-- 👨‍💻 All of my projects are available at [https://modest-raman-88f209.netlify.app/](https://modest-raman-88f209.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-sakthi.netlify.app//](https://personal-portfolio-sakthi.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
